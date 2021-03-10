@@ -1,0 +1,45 @@
+Source	Target	Drug Name
+DB12010	nsp1	fostamatinib
+DB12010	nsp2	fostamatinib
+DB12010	nsp3	fostamatinib
+DB03147	nsp3	flavin adenine dinucleotide
+DB06287	nsp3	temsirolimus
+DB12010	nsp4	fostamatinib
+DB12010	nsp5	fostamatinib
+DB01110	nsp5	miconazole
+DB12010	nsp6	fostamatinib
+DB01110	nsp6	miconazole
+DB00114	nsp6	pyridoxal phosphate
+DB00162	nsp6	vitamin a
+DB03247	nsp6	flavin mononucleotide
+DB09061	nsp6	cannabidiol
+DB12010	nsp7	fostamatinib
+DB01110	nsp7	miconazole
+DB12010	nsp8	fostamatinib
+DB12010	nsp9	fostamatinib
+DB01110	nsp9	miconazole
+DB02659	nsp9	cholic acid
+DB12010	nsp10	fostamatinib
+DB12010	nsp11	fostamatinib
+DB01110	nsp11	miconazole
+DB12010	nsp12	fostamatinib
+DB03147	nsp12	flavin adenine dinucleotide
+DB01110	nsp12	miconazole
+DB00114	nsp12	pyridoxal phosphate
+DB03247	nsp12	flavin mononucleotide
+DB09061	nsp12	cannabidiol
+DB00157	nsp12	nadh
+DB01987	nsp12	cocarboxylase
+DB08872	nsp12	gabapentin enacarbil
+DB14879	nsp12	cefiderocol
+DB12010	nsp13	fostamatinib
+DB03147	nsp13	flavin adenine dinucleotide
+DB01110	nsp13	miconazole
+DB03247	nsp13	flavin mononucleotide
+DB12010	nsp14	fostamatinib
+DB03147	nsp14	flavin adenine dinucleotide
+DB01110	nsp14	miconazole
+DB12010	nsp15	fostamatinib
+DB01110	nsp15	miconazole
+DB12010	nsp16	fostamatinib
+DB01110	nsp16	miconazole
