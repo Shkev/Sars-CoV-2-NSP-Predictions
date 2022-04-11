@@ -1,4 +1,6 @@
 # COVID-19 Non-structural Protein Predictions
+[Link to Paper](https://www.imrpress.com/journal/FBL/27/4/10.31083/j.fbl2704113)
+
 All code is in the root directory. Due to file size limitations of Github, data files are not included but they can be found at [Drugbank.ca](drugbank.ca). File paths should be adjusted to the user's own file layout if code is run.
 
 ## Notebooks
